@@ -1,6 +1,7 @@
-- Hey, I’m @UltraFogo
+- I'm A. Jobim
 - She/Her
-- Currently learning C for my programming class
+- I am a student at Fundação Escola Técnica Liberato Salzano Vieira da Cunha, which focus mainly on learning C and C++ for the use of STM32 peripherics.
+- Self-studying HTML, CSS and Javascript through Harvard's CS50 course.
 
 
 <!---
